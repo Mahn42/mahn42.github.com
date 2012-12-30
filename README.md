@@ -3,15 +3,5 @@ mahn42.github.com
 
 Organisation Pages
 
-Ziele
+Diese Webseiten sollen einen besseren Einstieg in die Arbeit von Mahn42 und den erstellten Plugins für Bukkit ermöglichen.
 
-    Zugriff auf gespeicherte Daten in Form von .csv Dateien
-    Zugriff auf Datenbanken (sqlite, mysql...)
-    Bereitstellen von Basisklassen zum leicheterem Handling
-    Bereitstellen eines synchronen Blockänderes damit andere Plugins Blöcke der Welt synchron ändern können
-    Erfassen von "Gesten" eines/mehrerer Spieler zum Auslösen von Aktionen
-    Erfassen von gebauten Strukturen (Boje, Pumpstation, Statue, Umladeplatz Schiene <-> Boot usw.)
-    Anbindung an Dynmap für erfasste Strukturen
-    ...
-
-Schau ins Wiki -> https://github.com/Mahn42/Minecraft-Bukkit-Mahn42-Framework/wiki
